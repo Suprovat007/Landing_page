@@ -23,7 +23,7 @@ const Navbar = () => {
             <img src={lock} />
             Login
           </button>
-          <button className=" px-8 py-3 bg-[#44bcbe] rounded-md text-white font-bold">
+          <button className=" px-8 py-3 bg-[#20B486] rounded-md text-white font-bold">
             Sign Up For Free
           </button>
         </div>
@@ -40,11 +40,11 @@ const Navbar = () => {
             <li className=" p-4 hover:bg-gray-100">Pricing</li>
           </ul>
           <div className=" flex flex-col my-4 gap-4">
-            <button className=" border border-[#208486] flex justify-center items-center bg-transparent p-6 gap-2 py-4">
+            <button className=" border border-[#20B486] flex justify-center items-center bg-transparent p-6 gap-2 py-4">
               <img src={lock} />
               Login
             </button>
-            <button className=" px-8 py-5 rounded-md bg-[#208486] text-white font-bold ">
+            <button className=" px-8 py-5 rounded-md bg-[#20B486] text-white font-bold ">
               Sign Up For Free
             </button>
           </div>
